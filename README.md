@@ -23,6 +23,12 @@ In this project I analyzed payment behavior of the user and applied various clas
 
 In this project I have used models such as LSTM to predict the engine failure 50 cycles ahead of its time, and currently exploring feature engineering using sensitivity analysis and shap values.
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/electricity.png"> **[Building Energy Analysis](https://github.com/kkratos/Building-Energy-Analysis)**
+
+Performed time series analysis on 500+ time-series meter data from buildings data genome project and Utilized K-means Clustering on electrical meter data to identify daily load profiles and implemented a k-nearest neighbor regression model to accurately predict energy consumption with a MAPE of 30%.
+
 <br />
 
 ## Micro Projects
