@@ -29,3 +29,4 @@ In this project I have used models such as LSTM to predict the engine failure 50
 
 - ### Statistics and Machine Learning
   - [Chi-Square Test](https://github.com/kkratos/Assessing-Campaign-Performance-Using-Chi-Square-Test/blob/main/Chi-Square-Test.ipynb) : In this file I Applied chi-square for Independence using SciPy library to assess the performance of two types of campaign to optimize marketing spend to promote a new delivery service for grocery store.
+  - [Predict Student Performance](https://github.com/kkratos/Predict-Student-Performance): The goal of this project was to understand the influence of the parents background, test preparation, and various other variables on the students math and english score.
