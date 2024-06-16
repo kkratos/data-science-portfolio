@@ -7,19 +7,19 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/kkratos/Portfolio/blob/master/Images/accidents.jpg"> **[ US-Vehicle-Accidents-Pattern-Analysis](https://github.com/kkratos/US-Vehicle-Accidents-Pattern-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/accidents.png"> **[ US-Vehicle-Accidents-Pattern-Analysis](https://github.com/kkratos/US-Vehicle-Accidents-Pattern-Analysis)**
 
 In this project, I performed pattern analysis and visualization of 2.8 million US vehicle accidents over a 9-year period (2016-2022). Investigated the impact of environmental factors on traffic behavior and identified key safety risks.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/kkratos/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Risk Prediction](https://github.com/kkratos/Loan-Default-Risk-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/loan.jpg"> **[Loan Default Risk Prediction](https://github.com/kkratos/Loan-Default-Risk-Prediction)**
 
 In this project I analyzed payment behavior of the user and applied various classification models such as Logistic Regression, Random Forest, LightGBM and XGBoost to detect consumers who will default the loan. Tuning LightGBM model with AutoML and PyCaret resulted into the highest AUC score of 0.74 without feature engineering nearing the top score of 0.79 on the kaggle competetion. More work with advanced statistical methods need to be applied to improve the model score.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/kkratos/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/kkratos/Predictive-Maintenance-of-Aircraft-Engine)**
+<img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/kkratos/Predictive-Maintenance-of-Aircraft-Engine)**
 
 In this project I have used models such as LSTM to predict the engine failure 50 cycles ahead of its time, and currently exploring feature engineering using sensitivity analysis and shap values.
 
