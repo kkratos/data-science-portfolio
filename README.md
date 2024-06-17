@@ -29,6 +29,12 @@ In this project I have used models such as LSTM to predict the engine failure 50
 
 Performed time series analysis on 500+ time-series meter data from buildings data genome project and Utilized K-means Clustering on electrical meter data to identify daily load profiles and implemented a k-nearest neighbor regression model to accurately predict energy consumption with a MAPE of 30%.
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/dashboard.png"> **[Netflix and Bicycle Sales Tableau Dashboard](https://public.tableau.com/app/profile/kamalpatel/vizzes)**
+
+I developed two interactive Tableau dashboards to learning tableau visualization tool. First project is on Netflix movies analysis, offering insights into viewership trends, ratings, and popular genres. The second project tracked retail sales data for a bicycle company operating in Australia, providing detailed analysis of sales performance, geographical distribution, and product trends.
+
 <br />
 
 ## Micro Projects
