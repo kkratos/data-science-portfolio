@@ -7,6 +7,12 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/forecasting.png"> **[Electriciy Price Forecasting](https://github.com/kkratos/Electricity-Price-Forecasting-Project.git)**
+
+Developed a electricity price forecasting model to predict day-ahead Locational Marginal Prices (LMP) using time-series analysis and machine learning. After extensive data exploration, which revealed strong daily and weekly seasonality, implemented and compared multiple models, including Seasonal ARIMAX and LSTM neural networks.
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/accidents.png"> **[ US-Vehicle-Accidents-Pattern-Analysis](https://github.com/kkratos/US-Vehicle-Accidents-Pattern-Analysis)**
 
 In this project, I performed pattern analysis and visualization of 2.8 million US vehicle accidents over a 9-year period (2016-2022). Investigated the impact of environmental factors on traffic behavior and identified key safety risks.
