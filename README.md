@@ -7,8 +7,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI
-
 <img align="left" width="250" height="150" src="https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI/blob/main/Dashboard.png"> **[Supply Chain and Inventory Analytics end-to-end PowerBI Analysis](https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI))**
 
 Built an end-to-end Supply Chain & Inventory Analytics Dashboard in Power BI to monitor operational KPIs, inventory velocity, and logistics cost distributions across regional networks.
