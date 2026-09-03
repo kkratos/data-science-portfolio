@@ -7,7 +7,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="200" src="https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI/blob/main/Dashboard.png"> **[Supply Chain and Inventory Analytics end-to-end PowerBI Analysis](https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI))**
+<img align="left" width="250" height="150" src="https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI/blob/main/Dashboard.png"> **[Supply Chain and Inventory Analytics end-to-end PowerBI Analysis](https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI))**
 
 Built an end-to-end Supply Chain & Inventory Analytics Dashboard in Power BI to monitor operational KPIs, inventory velocity, and logistics cost distributions across regional networks.
 
@@ -16,8 +16,6 @@ Built an end-to-end Supply Chain & Inventory Analytics Dashboard in Power BI to 
 <img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/dashboard.png"> **[Netflix and Bicycle Sales Tableau Dashboard](https://public.tableau.com/app/profile/kamalpatel/vizzes)**
 
 I developed two interactive Tableau dashboards. The first project is on Netflix movie analysis, offering insights into viewership trends, ratings, and popular genres. The second project tracked retail sales data for a bicycle company operating in Australia, providing a detailed analysis of sales performance, geographical distribution, and product trends.
-
-<br />
 
 #
 
@@ -56,10 +54,6 @@ In this project, I have used models such as LSTM to predict engine failure 50 cy
 Performed time series analysis on 500+ time-series meter data from the buildings data genome project, and utilized K-means Clustering on electrical meter data to identify daily load profiles, and implemented a k-nearest neighbor regression model to accurately predict energy consumption with a MAPE of 30%.
 
 #
-
-<img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/dashboard.png"> **[Netflix and Bicycle Sales Tableau Dashboard](https://public.tableau.com/app/profile/kamalpatel/vizzes)**
-
-I developed two interactive Tableau dashboards to learn the Tableau visualization tool. The first project is on Netflix movie analysis, offering insights into viewership trends, ratings, and popular genres. The second project tracked retail sales data for a bicycle company operating in Australia, providing a detailed analysis of sales performance, geographical distribution, and product trends.
 
 <br />
 
