@@ -7,6 +7,12 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
+https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI
+
+<img align="left" width="250" height="150" src="https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI/blob/main/Dashboard.png"> **[Supply Chain and Inventory Analytics end-to-end PowerBI Analysis](https://github.com/kkratos/Supply-Chain-Inventory-Analytics-PowerBI))**
+
+Built an end-to-end Supply Chain & Inventory Analytics Dashboard in Power BI to monitor operational KPIs, inventory velocity, and logistics cost distributions across regional networks.
+
 <img align="left" width="250" height="150" src="https://github.com/kkratos/data-science-portfolio/blob/main/Images/BB.png"> **[Paper Implementation - Barzilai-Bowerin Step Size Method for Stochastic Gradient Descent](https://github.com/kkratos/Paper-Implementation-Barzilai-Borwein-Step-Size-for-Stochastic-Gradient-Descent)**
 
 This project implements the Barzilai-Borwein step size method for Stochastic Gradient Descent (SGD) as presented in the original research paper, developed as part of a computational methods course. The implementation compares three gradient descent variants: standard SGD, Stochastic Variance Reduced Gradient (SVRG), and SGD with Barzilai-Borwein step size adaptation. Experimental results demonstrate that the Barzilai-Borwein approach outperforms traditional gradient descent methods by automatically computing optimal step sizes during iteration, eliminating the need for manual tuning.
